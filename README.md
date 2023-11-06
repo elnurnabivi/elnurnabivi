@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Elnur Nabivi</h1>
-<h3 align="center">Junior Front-end Developer Based in Poland</h3>
+<h1 align="center">Hello👋, I'm Elnur Nabivi</h1>
+<h3 align="center">A Junior Front-end Developer Based in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnurnabivi&label=Profile%20views&color=0d0d0d&style=flat" alt="elnurnabivi" /> </p>
 
