@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Elnur Nabivi</h1>
-<h3 align="center">A Junior Front-end Developer Based in Poland</h3>
+<h3 align="center">Front-end Developer Based in Poland</h3>
 
 
 - 👨‍💻 My projects are available at [http://nabivi.com/](http://nabivi.com/)
