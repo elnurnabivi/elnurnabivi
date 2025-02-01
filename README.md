@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Elnur Nabivi</h1>
+<h1 align="center">Hello👋, I'm Elnur</h1>
 <h3 align="center">Building & scaling digital solutions</h3>
 
 
